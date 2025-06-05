@@ -13,7 +13,7 @@ notas aspiradas tiene que ser igual a 16; y si se realiza entre tres, las suma t
 
 | Nombre completo              | Nota Aspirada |
 | ---------------------------- | ------------- |
-| Eduard Peñas Balart         | 8             |
+| Eduard Peñas Balart         | 10             |
 | Thomas Lessing Lasheras        | 6             |
 
 <span style="color:red">También Importante</span>
